@@ -1,0 +1,9 @@
+configuration,accuracy,co2\_g,energy\_wh,water\_l
+
+Baseline MLP,94.8,42.0,82.0,7.1
+
+Quantized MLP,93.8,26.0,54.0,4.7
+
+Feature-Pruned MLP,93.2,24.5,49.0,4.3
+
+Distilled MLP,91.7,19.0,38.0,3.4
